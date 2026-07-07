@@ -49,7 +49,6 @@ Se recomienda disponer de:
 - Memoria RAM: 4 GB (8 GB recomendados).
 - Espacio en disco: 200 MB libres.
 - Resolución de pantalla: 1280 × 720 o superior.
-- Tarjeta de sonido y altavoces o auriculares.
 
 ---
 

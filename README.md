@@ -216,29 +216,15 @@ Tras clasificar los 20 audios se calculan automáticamente:
 
 ---
 
-## 5. Visualización
+## 5. Resultados
 
-La interfaz gráfica muestra:
+Tras finalizar la clasificación, la aplicación muestra una interfaz gráfica con:
 
-- Tiempo total de clasificación.
-- Latencia media por archivo.
-- Sensibilidad.
-- Especificidad.
-- Reporte completo de clasificación.
-- Matriz de confusión.
-- Distribución de la confianza del ensemble.
-
----
-
-# Salida del programa
-
-La aplicación genera una ventana gráfica con:
-
+- Tiempo total de clasificación y latencia media por archivo.
 - Reporte de clasificación.
 - Matriz de confusión.
-- Histograma de confianza del ensemble.
-- Métricas clínicas.
-- Tiempo de procesamiento.
+- Métricas de evaluación (sensibilidad, especificidad, precisión, recall y F1-score).
+- Distribución de la confianza del ensemble.
 
 ---
 

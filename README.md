@@ -16,7 +16,7 @@ Cada audio es preprocesado mediante la extracción de coeficientes **MFCC**, cla
 
 Una vez finalizado el proceso, la aplicación genera una interfaz gráfica con las principales métricas de clasificación.
 
-**Imagen de la interfaz.**
+**Imagen de la interfaz:**
 
 <img width="1361" height="717" alt="image" src="https://github.com/user-attachments/assets/15a76e08-aa13-4c58-bcd3-f73036307108" />
 
